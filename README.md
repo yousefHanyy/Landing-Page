@@ -26,11 +26,11 @@ Yousef Hany Mahmoud
 
 ## Usage
 
-Interact with the DOM using JavaScript by making a navigation bar that injects links based on the number of sections.
+- Interact with the DOM using JavaScript by making a navigation bar that injects links based on the number of sections.
 
-Adding stlye classes based on the detected sections in the viewport
+- Adding style classes based on the detected sections in the viewport.
 
-Adding style classes to the links corresponding to the section in the viewport.
+- Adding style classes to the links corresponding to the section in the viewport.
 
 ## Dependecies
 
